@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "author": "Ivan Lagunovsky <ivan.lagunovsky@gmail.com>",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@scure/bip39": "^1.2.0",
+    "@types/inquirer": "^8.2.6",
+    "@types/node": "^18.16.18",
+    "ethers": "^5.7.2",
+    "inquirer": "^8.2.5",
+    "starknet": "^5.13.1",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.1.3"
+  }
+}
